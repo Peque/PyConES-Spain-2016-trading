@@ -1,4 +1,4 @@
-![PyConES 2016 logo](https://pbs.twimg.com/profile_images/743356612086116355/6X4srwCV.jpg)
+![PyConES 2016 logo](figures/pyconeslogo.jpg)
 
 ## Saturday 8 October at 17:10
 # DEVELOPING A REAL-TIME AUTOMATED TRADING PLATFORM WITH PYTHON
